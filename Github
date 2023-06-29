@@ -1,0 +1,10 @@
+<HTML>
+    <html lang="en">
+        <head>
+          <meta charset="UTF-8">
+          <title>Proyecto básico de Visual Studio Code</title>
+        </head>
+        <body>
+        <h1>¡Hola Mundo!</h1>  
+        </body>
+</HTML>
